@@ -2,7 +2,6 @@
 
 > *"Building software solutions that drive innovation and impact."*
 
-![GitHub Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)
 
 👋 Hi, I'm **Dev Mehta**, a passionate **Software Developer** and an aspiring **AI/ML Enthusiast**. I enjoy building scalable applications, exploring data science, and working on entrepreneurial ventures.
 
